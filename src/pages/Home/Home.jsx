@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <div className={styles.header}>
         <h1>
-            Projeto Final Pretalab 2024!
+            Projeto Final Pretalab!
         </h1>
         <img src={homeImg} />
       </div>
@@ -47,4 +47,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;
