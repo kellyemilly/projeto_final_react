@@ -1,6 +1,6 @@
 import fluxoImg from '../../assets/fluxo.png'
 import fotoPerfil from '../../assets/foto-perfil.png'
-import styles from './sobre.module.css'
+import styles from './Sobre.module.css'
 
 const Sobre = () => {
   return (

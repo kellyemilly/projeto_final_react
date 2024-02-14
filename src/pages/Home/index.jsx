@@ -1,4 +1,4 @@
-import styles from './home.module.css'
+import styles from './Home.module.css'
 import homeImg from '../../assets/homeimg.svg'
 import salarioImg from '../../assets/salario.svg'
 import vagasImg from '../../assets/vagas.svg'
