@@ -44,8 +44,8 @@ function Contato() {
       </div>
       <div className={styles.formContainer}>
         <form onSubmit={handleCreateMessage} className={styles.form}>
-          <input className={styles.formInput} placeholder="Digite sua nome" onChange={handleInputValueNome} value={nome} />
-          <input className={styles.formInput} placeholder="Digite sua email" onChange={handleInputValueEmail} value={email} />
+          <input className={styles.formInput} placeholder="Digite seu nome" onChange={handleInputValueNome} value={nome} />
+          <input className={styles.formInput} placeholder="Digite seu email" onChange={handleInputValueEmail} value={email} />
           <textarea className={styles.formTextArea} placeholder="Digite sua mensagem" onChange={handleInputValueMensagem} value={mensagem} />
           <button className={styles.formButton} type="submit">Enviar mensagem</button>
         </form>

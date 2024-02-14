@@ -1,6 +1,6 @@
 import fluxoImg from '../../assets/fluxo.png'
 import fotoPerfil from '../../assets/foto-perfil.png'
-import styles from './sobre.module.css'
+import styles from './Sobre.module.css'
 
 const Sobre = () => {
   return (
@@ -15,8 +15,8 @@ const Sobre = () => {
       </div>
 
       <div className={styles.containerSobre} >
-          <h1 className={styles.nomeCompleto}>Amanda Silva</h1>
-          <h2 className={styles.profissao}>Desenvolvedora Front-End</h2>
+          <h1 className={styles.nomeCompleto}>Kelly Emilly</h1>
+          <h2 className={styles.profissao}>Estudante</h2>
           <p className={styles.sobreMim}>
               Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. 
               Paisis, filhis, espiritis santis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. 
